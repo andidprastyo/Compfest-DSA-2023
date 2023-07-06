@@ -1,2 +1,2 @@
 # Compfest DSA 2023
-Analyzing Indonesia's economic growth in Covid-19 Pandemic
+Analyzing Covid-19's impact on global economy
